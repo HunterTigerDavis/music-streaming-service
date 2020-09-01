@@ -1,2 +1,2 @@
 # music-streaming-service
-groovy baby!
+A music Streaming service based on distributed systems streaming files
